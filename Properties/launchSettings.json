@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "First_Lab": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
